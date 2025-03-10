@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+GRTA,Guam Regional Transit Authority,https://grta.guam.gov/,Pacific/Guams,en,(671) 475-4686,https://grta.guam.gov/how-do-i/bus-fares
