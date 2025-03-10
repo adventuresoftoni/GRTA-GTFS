@@ -3,4 +3,4 @@ GTFS files for the GRTA
 
 To do:
 - lat/lon for stops
-- routes
+- stop times (pick up at blueline express)
