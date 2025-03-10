@@ -1,10 +1,11 @@
 route_id,route_short_name,route_desc,route_type,route_color,route_text_color
-01,Blueline 1,Hagåtña to Dededo plus Harmon and Tumon,3,3300FF,FFFFFF
-02,Blueline 2,Hagåtña to Hågat,3,3300FF,FFFFFF
-03,Blueline Express,Hagåtña to Dededo plus Harmon and Tumon,3,3300FF,FFFFFF
-04,Greenline,Hagåtña to Talo'fo'fo,3,008000,FFFFFF
-05,Greyline,Harmon-Dededo-Yigo,3,808080,FFFFFF
-06,Orangeline,Tamuning to Dededo plus Maite and Hagåtña,3,FFA500,FFFFFF
-07,Redline,Hagåtña to Chalan Pago plus Mangilao-Barrigada and MTM,3,FF0000,FFFFFF
-08,Southern Shuttle,Southern villages,3,FFFF00,FFFFFF
+1A,Blueline 1,Hagåtña to Dededo plus Harmon and Tumon,3,3300FF,FFFFFF
+2A,Blueline 2,Hagåtña to Hågat,3,3300FF,FFFFFF
+2B,Blueline 2,Piti to Hagåtña,3,3300FF,FFFFFF
+3,Blueline Express,Hagåtña to Dededo plus Harmon and Tumon,3,3300FF,FFFFFF
+4,Greenline,Hagåtña to Talo'fo'fo,3,008000,FFFFFF
+5,Greyline,Harmon-Dededo-Yigo,3,808080,FFFFFF
+6,Orangeline,Tamuning to Dededo plus Maite and Hagåtña,3,FFA500,FFFFFF
+7,Redline,Hagåtña to Chalan Pago plus Mangilao-Barrigada and MTM,3,FF0000,FFFFFF
+8,Southern Shuttle,Southern villages,3,FFFF00,FFFFFF
 
