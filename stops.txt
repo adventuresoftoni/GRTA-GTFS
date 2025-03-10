@@ -1,103 +1,103 @@
 stop_id,stop_name,stop_desc,stop_lat,stop_lon
-01,Hågat Mayor's Office,Hågat. Multiple lines depart from this stop. This stop can be used to connect lines.,13.388854670874746,144.66196128693295
-02,7 Day Supermarket,Yona,13.399864939969785,144.7722727641944
-03,Acanta Mall,Tumon. Multiple lines depart from this stop. This stop can be used to connect lines. This is a terminal. All lines depart from here.,13.508294026569828, 144.80545627956616
-04,Across Century Plaza,Tamuning,13.492917408845656, 144.79229302037194
-05,Across Fountain Plaza,Tumon,13.503910244386025, 144.79690465156733
-06,Adelup Complex,Anigua,Multiple lines depart from this stop. This stop can be used to connect lines. This is a terminal. All lines depart from here.,13.478276876046285, 144.73002548031812
-07,Agana Heights Mayor,Agana Heights,13.465934910534264, 144.74939946475723
-08,Asan Mayor's Office,Asan,13.472706045226497, 144.7196253096968
-09,Astumbo Community Center,Dededo,13.558387742175519, 144.8471642250626
-10,Baltej Pavilion,Tamuning,13.495986021527221, 144.78187186059307
-11,Baptist Church Entrance,Hågat,13.386008041498602, 144.6625995376874
-12,Barrigada Mayor's Office,Barrigada,13.469568740877031, 144.8005959001071
-13,Barrigada Post Office,Barrigada,13.478906324367738, 144.81044210339007
-14,Batulo (Marine Corps Drive),Dededo,13.515774692514315, 144.8547837510631
-15,Baza Gardens,Yona,13.378190567177018, 144.7504010990151
-16,Before AAFB Traffic Light,Yigo,13.565621495151712, 144.90278373346555
-17,Bell Tower,Anigua,13.480138919403666, 144.74188839883251
-18,Buenas Mart,Yona,13.409848890776617, 144.7768845414558
-19,Burger King (across Tumon Sands Plaza),Tumon,13.510051404645965, 144.8070279642239
-20,Talo'fo'fo' Fire Station,Talo'fo'fo',13.353828804850208, 144.75647333240644
-21,Calvary Baptist Church,Tumon,13.503591890704046, 144.79953975052862
-22,Calvo Building (Next to Fatima Mobil),Dededo,13.520333966237848, 144.82800369522514
-23,Century Plaza,Tamuning,13.493079701144643, 144.79432951764613
-24,Chalan Castro Entrance (NCTAMS),Dededo,13.581277209346304, 144.85458317238337
-25,Chalan Evangelista,Yigo,13.550491070955344, 144.89320132973393
-26,Chalan Pago Church,Chalan Pago,13.43935577416543, 144.78001400174404
-27,Chalan Ramirez Entrance (Hwy 9),Dededo,13.582443738224741, 144.8880566012361
-28,Citibank East Agana,Hagåtña,13.477957366370068, 144.76247674399417
-29,Cost-U-Less Traffic Light,Harmon,13.511039250751379, 144.82457054888158
-30,Dededo Mayor's Office,Dededo,13.51779806184943, 144.84069354942858
-31,Dededo Public Health,Dededo. Multiple lines depart from this stop. This stop can be used to connect lines. This is a terminal. All lines depart from here.,13.523164256801474, 144.83474802614333
-32,Famz Restaurant (Old Fortune Cookie),Dededo,13.491246477255222, 144.7902232817422
-33,Farenholt Joy Market,Tamuning,13.497693370226527, 144.77972737856308
-34,Fern Terrace Entrance,Dededo,13.571024316671938, 144.85256853355506
-35,Field before Wendy's,Barrigada,13.463286952068415, 144.8022475198192
-36,Fish Eye Marine Park,Asan,13.470013284275613, 144.70679060338767
-37,Fountain Plaza (Bus Stop),Tumon,13.504448726289258, 144.79750296640304
-38,GCIC Building (Rear),Anigua,
-39,GIAA Departures (Airport),Tamuning,
-40,GovGuam Retirement Building,Matie
-41,GPO,Tamuning,
-42,GRMC Rt3 (NCS Rd),Dededo,
-43,GTA,Tumon,
-44,Guam Community College,Mangilao,
-45,Guam Medical Plaza,Tamuning. Multiple lines depart from this stop. This stop can be used to connect lines. This is a terminal. All lines depart from here.,
-46,Guam Memorial Hospital (GMH) Entrance,Tamuning,
-47,Guam Regional Medical City Rt.3,Dededo,Multiple lines depart from this stop. This stop can be used to connect lines. This is a terminal. All lines depart from here.,
-48,GW Football Field (Stop sign),Mangilao,
-49,Hafa Adai Specialist Group,Tamuning,
-50,Hågat Fish Market,Hågat,
-51,Hagåtña Pool Parking Lot,Hagåtña. Multiple lines depart from this stop. This stop can be used to connect lines. This is a terminal. All lines depart from here.,
-52,Harmon Drugs,Harmon. Multiple lines depart from this stop. This stop can be used to connect lines.,
-53,Hava Java, behind Agana Post Office,Hagåtña,
-54,Hilton Hotel Entrance,Tumon,
-55,Humåtak Fire Station,Humåtak. Multiple lines depart from this stop. This stop can be used to connect lines. This is a terminal. All lines depart from here.,
-56,Humåtak Mayor's Office,Humåtak,
-57,Hyatt Hotel (bus stop),Tumon,
-58,Hyundai Entrance,Santa Rita-Sumai,
-59,Iglesia Ni Cristo Church (Rt 16),Harmon,
-60,Inalåhan Mayors Office,Inalåhan,
-61,Inalåhan Public Health,Inalåhan,
-62,Intersection into Wusstig Rd (Marine Dr),Dededo,
-63,Island Fresh Supermarket,Chalan Pago,
-64,ITC Building,Tamuning,
-65,JFK High School Rt 1,Tamuning,
-66,Joann's Bakery Bus Stop,Yigo,
-67,JP Super Store,Tumon
-68,Julale Center (Green Bus Stop),Hagåtña,
-69,Kayen Kaskado (entrance),Harmon,
-70,Kmart Traffic Light,Tamuning,
-71,La Familia Store,Dededo,
-72,Malesso' Mayor's Office,Malesso',
-73,Mangilao Payless,Mangilao,
-74,McDonald,Maite,
-75,McKrauts,Inalåhan,
-76,Memorial Park,Humåtak,
-77,Micro Mall Macy's Side,Dededo,
-78,Micronesia Mall,Dededo,
-79,Mobil Gas Station,Sinajana,
-80,Mobile Gas Station,Ipan,
-81,MTM Mayors Office,Toto,
-82,Naputi Retail Store IVO Hemlani,Malesso',
-83,Naval Station Pass & ID Sumay Naval Station,Piti,
-84,NCS Shell Gas Station,Dededo,
-85,Oasis Apartments Entrance,Toto,
-86,Old Ben Franklin Buidling,Tamuning,
-87,Orleans Plaza,Tamuning,
-88,OS 7 Mart,Mangilao,
-89,Pagachao Ghura Office,Hågat,
-90,Pak Air (Social Security),Tamuning. Multiple lines depart from this stop. This stop can be used to connect lines. This is a terminal. All lines depart from here.,
-91,Parks & Recreation,Agana Heights,
-92,Parks Market,Dededo,
-93,Paul's Plaza Rt 1,Tamuning,
-94,Payless SuperMarket,Maite,
-95,PIC Hotel (bus stop),Tumon,
-96,Piti Church,Piti,
-97,Premier Apartments (Marine Dr),Yigo,
-98,Public Defender,Sinajana,
-99,Reef Hotel Traffic Light,Tumon,
+001,Hågat Mayor's Office,Hågat. Multiple lines depart from this stop. This stop can be used to connect lines.,13.388854670874746,144.66196128693295
+002,7 Day Supermarket,Yona,13.399864939969785,144.7722727641944
+003,Acanta Mall,Tumon. Multiple lines depart from this stop. This stop can be used to connect lines. This is a terminal. All lines depart from here.,13.508294026569828, 144.80545627956616
+004,Across Century Plaza,Tamuning,13.492917408845656, 144.79229302037194
+005,Across Fountain Plaza,Tumon,13.503910244386025, 144.79690465156733
+006,Adelup Complex,Anigua,Multiple lines depart from this stop. This stop can be used to connect lines. This is a terminal. All lines depart from here.,13.478276876046285, 144.73002548031812
+007,Agana Heights Mayor,Agana Heights,13.465934910534264, 144.74939946475723
+008,Asan Mayor's Office,Asan,13.472706045226497, 144.7196253096968
+009,Astumbo Community Center,Dededo,13.558387742175519, 144.8471642250626
+010,Baltej Pavilion,Tamuning,13.495986021527221, 144.78187186059307
+011,Baptist Church Entrance,Hågat,13.386008041498602, 144.6625995376874
+012,Barrigada Mayor's Office,Barrigada,13.469568740877031, 144.8005959001071
+013,Barrigada Post Office,Barrigada,13.478906324367738, 144.81044210339007
+014,Batulo (Marine Corps Drive),Dededo,13.515774692514315, 144.8547837510631
+015,Baza Gardens,Yona,13.378190567177018, 144.7504010990151
+016,Before AAFB Traffic Light,Yigo,13.565621495151712, 144.90278373346555
+017,Bell Tower,Anigua,13.480138919403666, 144.74188839883251
+018,Buenas Mart,Yona,13.409848890776617, 144.7768845414558
+019,Burger King (across Tumon Sands Plaza),Tumon,13.510051404645965, 144.8070279642239
+020,Talo'fo'fo' Fire Station,Talo'fo'fo',13.353828804850208, 144.75647333240644
+021,Calvary Baptist Church,Tumon,13.503591890704046, 144.79953975052862
+022,Calvo Building (Next to Fatima Mobil),Dededo,13.520333966237848, 144.82800369522514
+023,Century Plaza,Tamuning,13.493079701144643, 144.79432951764613
+024,Chalan Castro Entrance (NCTAMS),Dededo,13.581277209346304, 144.85458317238337
+025,Chalan Evangelista,Yigo,13.550491070955344, 144.89320132973393
+026,Chalan Pago Church,Chalan Pago,13.43935577416543, 144.78001400174404
+027,Chalan Ramirez Entrance (Hwy 9),Dededo,13.582443738224741, 144.8880566012361
+028,Citibank East Agana,Hagåtña,13.477957366370068, 144.76247674399417
+029,Cost-U-Less Traffic Light,Harmon,13.511039250751379, 144.82457054888158
+030,Dededo Mayor's Office,Dededo,13.51779806184943, 144.84069354942858
+031,Dededo Public Health,Dededo. Multiple lines depart from this stop. This stop can be used to connect lines. This is a terminal. All lines depart from here.,13.523164256801474, 144.83474802614333
+032,Famz Restaurant (Old Fortune Cookie),Dededo,13.491246477255222, 144.7902232817422
+033,Farenholt Joy Market,Tamuning,13.497693370226527, 144.77972737856308
+034,Fern Terrace Entrance,Dededo,13.571024316671938, 144.85256853355506
+035,Field before Wendy's,Barrigada,13.463286952068415, 144.8022475198192
+036,Fish Eye Marine Park,Asan,13.470013284275613, 144.70679060338767
+037,Fountain Plaza (Bus Stop),Tumon,13.504448726289258, 144.79750296640304
+038,GCIC Building (Rear),Anigua,
+039,GIAA Departures (Airport),Tamuning,
+040,GovGuam Retirement Building,Matie
+041,GPO,Tamuning,
+042,GRMC Rt3 (NCS Rd),Dededo,
+043,GTA,Tumon,
+044,Guam Community College,Mangilao,
+045,Guam Medical Plaza,Tamuning. Multiple lines depart from this stop. This stop can be used to connect lines. This is a terminal. All lines depart from here.,
+046,Guam Memorial Hospital (GMH) Entrance,Tamuning,
+047,Guam Regional Medical City Rt.3,Dededo,Multiple lines depart from this stop. This stop can be used to connect lines. This is a terminal. All lines depart from here.,
+048,GW Football Field (Stop sign),Mangilao,
+049,Hafa Adai Specialist Group,Tamuning,
+050,Hågat Fish Market,Hågat,
+051,Hagåtña Pool Parking Lot,Hagåtña. Multiple lines depart from this stop. This stop can be used to connect lines. This is a terminal. All lines depart from here.,
+052,Harmon Drugs,Harmon. Multiple lines depart from this stop. This stop can be used to connect lines.,
+053,Hava Java, behind Agana Post Office,Hagåtña,
+054,Hilton Hotel Entrance,Tumon,
+055,Humåtak Fire Station,Humåtak. Multiple lines depart from this stop. This stop can be used to connect lines. This is a terminal. All lines depart from here.,
+056,Humåtak Mayor's Office,Humåtak,
+057,Hyatt Hotel (bus stop),Tumon,
+058,Hyundai Entrance,Santa Rita-Sumai,
+059,Iglesia Ni Cristo Church (Rt 16),Harmon,
+060,Inalåhan Mayors Office,Inalåhan,
+061,Inalåhan Public Health,Inalåhan,
+062,Intersection into Wusstig Rd (Marine Dr),Dededo,
+063,Island Fresh Supermarket,Chalan Pago,
+064,ITC Building,Tamuning,
+065,JFK High School Rt 1,Tamuning,
+066,Joann's Bakery Bus Stop,Yigo,
+067,JP Super Store,Tumon
+068,Julale Center (Green Bus Stop),Hagåtña,
+069,Kayen Kaskado (entrance),Harmon,
+070,Kmart Traffic Light,Tamuning,
+071,La Familia Store,Dededo,
+072,Malesso' Mayor's Office,Malesso',
+073,Mangilao Payless,Mangilao,
+074,McDonald,Maite,
+075,McKrauts,Inalåhan,
+076,Memorial Park,Humåtak,
+077,Micro Mall Macy's Side,Dededo,
+078,Micronesia Mall,Dededo,
+079,Mobil Gas Station,Sinajana,
+080,Mobile Gas Station,Ipan,
+081,MTM Mayors Office,Toto,
+082,Naputi Retail Store IVO Hemlani,Malesso',
+083,Naval Station Pass & ID Sumay Naval Station,Piti,
+084,NCS Shell Gas Station,Dededo,
+085,Oasis Apartments Entrance,Toto,
+086,Old Ben Franklin Buidling,Tamuning,
+087,Orleans Plaza,Tamuning,
+088,OS 7 Mart,Mangilao,
+089,Pagachao Ghura Office,Hågat,
+090,Pak Air (Social Security),Tamuning. Multiple lines depart from this stop. This stop can be used to connect lines. This is a terminal. All lines depart from here.,
+091,Parks & Recreation,Agana Heights,
+092,Parks Market,Dededo,
+093,Paul's Plaza Rt 1,Tamuning,
+094,Payless SuperMarket,Maite,
+095,PIC Hotel (bus stop),Tumon,
+096,Piti Church,Piti,
+097,Premier Apartments (Marine Dr),Yigo,
+098,Public Defender,Sinajana,
+099,Reef Hotel Traffic Light,Tumon,
 100,Rev & Tax Building,Barrigada,
 101,Rt. 10 (after DHL school Bus stop),Mangilao,
 102,Sakura Kitchen,Tamuning,
