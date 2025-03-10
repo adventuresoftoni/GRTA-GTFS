@@ -1,0 +1,9 @@
+route_id,service_id,trip_id
+01,___,North
+02,___,Southeast
+03,___,North
+04,___,Southwest
+05,___,Northern
+06,___,Northern
+07,___,Central
+08,___,Southern
