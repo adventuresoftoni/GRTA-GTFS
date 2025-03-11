@@ -2,5 +2,7 @@
 GTFS files for the GRTA
 
 To do:
-- lat/lon for stops
-- stop times (pick up at blueline express)
+- stops.text
+-- verify locations
+- stop_times.txt
+-- pick up at blueline express
